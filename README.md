@@ -18,5 +18,9 @@ Create branch via intellij
 Make changes and commit, push
 Make Pull request (VCS | Pull Request)
 
-Add profyoni to Repo
+In Github Settings for repo
+Collaborators add profyoni
+Branches: Add master as protected branch
+  check Protect this branch
+  check include administrators
 Assign profyoni to pull request
